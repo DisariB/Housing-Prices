@@ -10,7 +10,7 @@ This project is based on the classic Kaggle competition "House Prices: Advanced 
 - `data_description.txt`: Feature descriptions
 
 ## Model
-- Algorithm: [mention if you used Linear Regression, Random Forest, XGBoost, etc.]
+- Algorithm: Redge Regression, ElasticNet, Lasso
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
 ## File Structure
@@ -19,7 +19,7 @@ Housing-Prices/
 ├── train.csv # Training data 
 ├── test.csv # Test data 
 ├── data_description.txt # Feature explanations ├── sample_submission.csv # Sample format for Kaggle submission 
-├── DisariB_Output.csv # Your model predictions
+├── DisariB_Output.csv # Model predictions
 
 
 ## Instructions
@@ -27,8 +27,6 @@ Housing-Prices/
 2. Open `Housing_Prices.ipynb` in Jupyter or VS Code.
 3. Run the cells to see data cleaning, modeling, and prediction steps.
 
-## Result
-- [Insert your model’s score if available, e.g., RMSE or Kaggle leaderboard position]
 
 ## License
 MIT
